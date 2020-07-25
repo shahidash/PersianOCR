@@ -1,5 +1,5 @@
 # Persian OCR
-## A simple persian OCR system based on Recurrent Neural Networks written in Pytorch and OpenCV
+A simple persian OCR system based on Recurrent Neural Networks written in Pytorch and OpenCV
 ![OCR Result Image](https://raw.githubusercontent.com/amirabbasasadi/PersianOCR/master/OCR_result.png)  
 
 The program uses [Shotor dataset](https://github.com/amirabbasasadi/Shotor), A synthetic dataset which I created for Persian OCR.
